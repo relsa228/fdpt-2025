@@ -1,0 +1,4 @@
+.obsidian/*
+.DS_Store
+*.lock
+additional-info/scripts/node_modules/*
